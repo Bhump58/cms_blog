@@ -21,7 +21,7 @@
                     <a href="#">Blog Post Title</a>
                 </h2>
                 <p class="lead">
-                    by <a href="index.php">Start Bootstrap</a>
+                    by <a href="index.php">Start Bootstrap1</a>
                 </p>
                 <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:00 PM</p>
                 <hr>
@@ -33,7 +33,7 @@
                 <hr>
 
 
-                
+
             </div>
 
             <!-- Blog Sidebar Widgets Column -->
