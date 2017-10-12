@@ -25,9 +25,6 @@
         $query = "SELECT * FROM categories Limit 4";
         $select_categories_sidebar = mysqli_query($connection, $query);
 
-
-
-
        ?>
         <h4>Blog Categories</h4>
         <div class="row">
